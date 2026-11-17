@@ -20,7 +20,7 @@ Scan QR dengan Expo Go di iPhone. Untuk build native: `npx expo run:ios` (butuh 
 - `src/components/AddSheet.tsx`: sheet native iOS (pageSheet) untuk tugas/jadwal
 - `src/screens/*`: Hari ini, Bulan, To-do & Goals, Pengaturan
 
-##Pull Request
+## Pull Request
 Feel Free to contribute, please use semantic message on PR. Example:
   - feat: feature
 
