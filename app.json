@@ -12,7 +12,8 @@
       "bundleIdentifier": "com.example.tempo",
       "infoPlist": {
         "CFBundleAllowMixedLocalizations": true,
-        "NSAlarmKitUsageDescription": "Tempo memasang alarm untuk pengingat jadwal dan tugas yang kamu buat."
+        "NSAlarmKitUsageDescription": "Tempo memasang alarm untuk pengingat jadwal dan tugas yang kamu buat.",
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
