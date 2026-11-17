@@ -1,4 +1,4 @@
-# Tempo
+# Sesoojah-Todo
 
 Aplikasi to-do & jadwal berbasis jam, dibuat dengan Expo (SDK 58) + React Native Reanimated 4, diprioritaskan untuk iOS.
 
@@ -19,3 +19,9 @@ Scan QR dengan Expo Go di iPhone. Untuk build native: `npx expo run:ios` (butuh 
 - `src/components/TodoRow.tsx`: baris dengan checkbox animasi + swipe kiri untuk hapus
 - `src/components/AddSheet.tsx`: sheet native iOS (pageSheet) untuk tugas/jadwal
 - `src/screens/*`: Hari ini, Bulan, To-do & Goals, Pengaturan
+
+##Pull Request
+Feel Free to contribute, please use semantic message on PR. Example:
+  - feat: feature
+
+
